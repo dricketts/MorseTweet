@@ -1,0 +1,1 @@
+﻿package{	// Represents a Tweet.	public class Tweet {				private var user:String;		private var userID:int;		private var text:String;				public function getUser():String {			return user;		}				public function getUserID():int {			return userID;		}				public function getText():String {			return text;		}	}}
