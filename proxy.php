@@ -5,7 +5,7 @@
 //pass the entire url
 
 //make sure we're using http
-$url = 'http://';
+$url = 'https://';
 if (isset($_GET['sd']) && $_GET['sd'] != '')
 {
     $url .= $_GET['sd'].'.';
