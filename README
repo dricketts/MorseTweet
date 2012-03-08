@@ -2,4 +2,4 @@ This project displays Tweets using Morse code, output by the light on your compu
 
 This isn't necessarily a useful service, but it demonstrates how to access Twitter streaming API using action script and how to turn on and off a webcam using action script. Also, it's a creative way to display Tweets.
 
-The idea for the service and the webcam code itself was courtesy of https://github.com/wwlian.
+The idea for the service and the webcam code itself is courtesy of https://github.com/wwlian.
