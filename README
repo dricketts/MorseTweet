@@ -1,1 +1,3 @@
-This project displays Tweets using Morse code, output by the light on your computer's webcam.
+This project displays Tweets using Morse code, output by the light on your computer's webcam. When the project is finished, a user will be able to enter a list of keywords and a list of users to track, and this service will use the Twitter Streaming API to obtain a stream of Tweets containing at least one of the list of keywords and referencing at least one of the users. For high traffic streams, Morse code cannot keep up with the stream of Tweets, so some will have to get dropped.
+
+This isn't necessarily a useful service, but it demonstrates how to access Twitter streaming API using action script and how to turn on and off a webcam using action script. Also, it's a creative way to display Tweets.
